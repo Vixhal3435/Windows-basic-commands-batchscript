@@ -23,49 +23,58 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+
 <img width="742" height="47" alt="image" src="https://github.com/user-attachments/assets/49b4da86-c1e6-4492-8eba-68cd7d0d3102" />
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+
 <img width="744" height="40" alt="image" src="https://github.com/user-attachments/assets/1f378f9c-1851-4f37-b9d3-9454e3455d68" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+
 <img width="792" height="436" alt="image" src="https://github.com/user-attachments/assets/34f78b53-9762-4df7-961b-5e30eccddfe1" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+
 <img width="974" height="129" alt="image" src="https://github.com/user-attachments/assets/77964a52-9881-420f-b9d8-6f8e79996744" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+
 <img width="895" height="144" alt="image" src="https://github.com/user-attachments/assets/b1fe40cc-548b-41ad-b3c3-469f3a3def0a" />
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+
 <img width="726" height="35" alt="image" src="https://github.com/user-attachments/assets/a6544ff8-7637-449b-9d23-7021a6118039" />
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+
 <img width="697" height="344" alt="image" src="https://github.com/user-attachments/assets/87b79def-2d34-4839-8fc1-fc028baacdcf" />
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+
 <img width="701" height="345" alt="image" src="https://github.com/user-attachments/assets/2f0e5a6f-e622-4a78-96c2-ed8ce53bf7d5" />
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+
 <img width="841" height="225" alt="image" src="https://github.com/user-attachments/assets/c21e59fe-4eba-461d-939a-33d543a89d98" />
 
 ## COMMAND AND OUTPUT
@@ -116,6 +125,7 @@ Use the IF EXIST conditional statement.
 Make sure the script works for files located in the same directory as the batch file.
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
+
 <img width="1008" height="173" alt="image" src="https://github.com/user-attachments/assets/df4b9e88-3579-4b69-9d99-942a5788908a" />
 
 ## OUTPUT
@@ -126,6 +136,7 @@ Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
+
 <img width="922" height="397" alt="image" src="https://github.com/user-attachments/assets/c9508088-5201-4668-9807-b26e4c1fd758" />
 
 
